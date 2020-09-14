@@ -35,7 +35,7 @@ class _PaymentState extends State<Payment> {
 
   void openCheckout() async {
     var options = {
-      'key': 'rzp_live_OjRGZfU9yWz4W0',
+      'key': 'xxxxxxxxxxxxxxxxxxx',
       'amount': amount * 100,
       'name': "Secret Chat",
       'Description': 'Safe and secure payment gatway.',
